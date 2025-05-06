@@ -2,6 +2,8 @@
 
 A Python script that automatically renames PDF documents based on their content using AI. It extracts the date and content description from scanned documents and renames them accordingly.
 
+Note: currently exports German language titles. Edit in `renamer.py` for other languages
+
 ## How it Works
 
 1. Each PDF is converted to an image using pdf2image
