@@ -11,6 +11,10 @@ Note: currently exports German language titles. Edit in `renamer.py` for other l
 3. The AI model extracts the date and content description directly from the image (no OCR)
 4. Files are renamed using the extracted information
 
+## Cost
+
+Approx. USD 0.80 / 100 Pages
+
 ## Requirements
 
 - Python 3.6+
