@@ -28,7 +28,7 @@ def extract_info_from_image(image_path):
     Das folgende Bild ist ein eingescanntes offizielles Schreiben (z.B. Rechnung, Steuerbescheid, Behördenbrief).
     Bitte extrahiere:
     1. Das Datum des Dokuments im Format YYYY-MM-DD
-    2. Eine kurze deutsche Inhaltsbeschreibung (max. 8 Wörter), z.B. "Bescheid zur Gewerbesteuer 2019", "Apple Care Rechnung", "Büromaterialien Rechnung".
+    2. Eine kurze deutsche Inhaltsbeschreibung (max. 8 Wörter), z.B. "Bescheid zur Gewerbesteuer 2019", "Apple Care Rechnung", "Büromaterialien Rechnung". Sofern ein Zeitraum angegeben ist, fügen diesen an, z.B. "1&1 Sammelrechnung November 2024"
 
     Gib die Antwort bitte im Format:
     DATE: YYYY-MM-DD
